@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Bun
+bun.lockb
+
+# IDEs
+.idea/
+.vscode/
